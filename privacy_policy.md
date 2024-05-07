@@ -1,4 +1,4 @@
-##### Sukkari App Privacy Policy**
+##### Sukkari App Privacy Policy
 
 This privacy policy applies to the Sukkari app (hereby referred to as "Application") for mobile devices that was created by Hamzeh Aljawawdeh (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
